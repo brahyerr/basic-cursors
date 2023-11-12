@@ -1,0 +1,16 @@
+Changelog:
+
+0.9.6	-	Redraw cursors bd_double_arrow, ew-resize, fd_double_arrow, ns-resize
+		Add Basic-Black X Cursor Theme
+		Add Basic-Goofy black and white themes for left-handed people
+		Fix crosshair.png image size
+		Fix some missing drop-shadow effects
+0.9.5	-	Review the script build.sh to add more cursor links for Firefox and QT4
+0.9.4	-	Add vertical-text cursor and redraw some cursors
+0.9.3	-	Add zoom-in and zoom-out cursors in basic-white theme
+0.9.2	-	Fix x and y offsets for pointers and hands. The point should not be
+			visible in the bottom-right corner of the screen.
+		 	The pointing hand cursor will be definitively vertical.
+0.9.1	-	Fix left_ptr drop shadow effect
+0.9		-	Add basic-white-shadow theme
+0.8		-	First release of the Basic X Cursor Theme package
